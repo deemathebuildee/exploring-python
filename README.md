@@ -5,7 +5,3 @@ A personal collection of Python practice files, exercises, and mini-projects doc
 ## Why this repo
 Track learning goals, experiments, and small projects while practicing Python fundamentals.
 
-## Structure
-- `basics/` — syntax, control flow, I/O
-- `data-structures/` — lists, dicts, sets, custom implementations
-- `projects/` — mini projects and exercises
